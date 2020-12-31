@@ -1,2 +1,2 @@
 # Memes_Vs_Notes
-Machine Learning Model to help classify Memes and Notes.
+Machine Learning Model which helps to classify Memes and Notes.
